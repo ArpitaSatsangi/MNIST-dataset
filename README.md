@@ -21,7 +21,11 @@ Descent means the instance of descending.
 
   * Batches - Since one epoch is too big to feed to the computer at once (you can’t pass the entire dataset into the neural net at once), we divide dataset into Number of Batches or sets or parts.
 
-  * Iterations - It is the number of batches needed to complete one epoch.
+Test loss: 0.12. Test accuracy: 96.48%
+
+
+  ## Results
+Iterations - It is the number of batches needed to complete one epoch.
 
 
 * We can divide the dataset of 2000 examples into batches of 500 then it will take 4 iterations to complete 1 epoch.
